@@ -1,0 +1,990 @@
+   50  conda activate base
+   51  /Users/santibanezfamily/opt/anaconda3/bin/python /Users/santibanezfamily/Desktop/Training/Main.py
+   52  /Users/santibanezfamily/opt/anaconda3/bin/python /Users/santibanezfamily/Desktop/Training/Main.py
+   53  /Users/santibanezfamily/opt/anaconda3/bin/python /Users/santibanezfamily/Desktop/Training/Main.py
+   54  /Users/santibanezfamily/opt/anaconda3/bin/python /Users/santibanezfamily/Desktop/Training/Main.py
+   55  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/Bootcamp - Course Content/2. Module 2 - Financial Applications with Python/Lesson 1 - Building Software Applications/2.1.8_ Activity_ Filter Data for the Loan Qualifier_ Bootcamp_ RICE-VIRT-FIN-PT-09-2021-U-B-TTH/Unsolved/app.py"
+   56  source /Users/santibanezfamily/opt/anaconda3/bin/activate
+   57  conda activate base
+   58  source /Users/santibanezfamily/opt/anaconda3/bin/activate
+   59  conda activate base
+   60  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/Bootcamp - Course Content/2. Module 2 - Financial Applications with Python/Lesson 1 - Building Software Applications/2.1.8_ Activity_ Filter Data for the Loan Qualifier_ Bootcamp_ RICE-VIRT-FIN-PT-09-2021-U-B-TTH/Unsolved/app.py"
+   61  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/Bootcamp - Course Content/2. Module 2 - Financial Applications with Python/Lesson 1 - Building Software Applications/2.1.8_ Activity_ Filter Data for the Loan Qualifier_ Bootcamp_ RICE-VIRT-FIN-PT-09-2021-U-B-TTH/Unsolved/app.py"
+   62  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/Bootcamp - Course Content/2. Module 2 - Financial Applications with Python/Lesson 1 - Building Software Applications/2.1.8_ Activity_ Filter Data for the Loan Qualifier_ Bootcamp_ RICE-VIRT-FIN-PT-09-2021-U-B-TTH/Unsolved/app.py"
+   63  source /Users/santibanezfamily/opt/anaconda3/bin/activate
+   64  conda activate base
+   65  source /Users/santibanezfamily/opt/anaconda3/bin/activate
+   66  conda activate base
+   67  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/Bootcamp - Course Content/2. Module 2 - Financial Applications with Python/Lesson 2 - Creating Modular Applications/2.2.5_ Begin to Modularize Your Loan Qualifier Application_ Bootcamp_ RICE-VIRT-FIN-PT-09-2021-U-B-TTH/app.py"
+   68  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/Bootcamp - Course Content/2. Module 2 - Financial Applications with Python/Lesson 2 - Creating Modular Applications/2.2.5_ Begin to Modularize Your Loan Qualifier Application_ Bootcamp_ RICE-VIRT-FIN-PT-09-2021-U-B-TTH/app.py"
+   69  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/Bootcamp - Course Content/2. Module 2 - Financial Applications with Python/Lesson 2 - Creating Modular Applications/2.2.5_ Begin to Modularize Your Loan Qualifier Application_ Bootcamp_ RICE-VIRT-FIN-PT-09-2021-U-B-TTH/app.py"
+   70  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/Bootcamp - Course Content/2. Module 2 - Financial Applications with Python/Lesson 2 - Creating Modular Applications/2.2.5_ Begin to Modularize Your Loan Qualifier Application_ Bootcamp_ RICE-VIRT-FIN-PT-09-2021-U-B-TTH/app.py"
+   71  source /Users/santibanezfamily/opt/anaconda3/bin/activate
+   72  conda activate base
+   73  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/Bootcamp - Course Content/2. Module 2 - Financial Applications with Python/Lesson 2 - Creating Modular Applications/2.2.6_ Activity_ Modularize Your Loan Qualifier Application_ Part 2_ Bootcamp_ RICE-VIRT-FIN-PT-09-2021-U-B-TTH/Unsolved/app.py"
+   74  conda activate dev
+   75  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/Bootcamp - Course Content/2. Module 2 - Financial Applications with Python/Lesson 2 - Creating Modular Applications/2.2.6_ Activity_ Modularize Your Loan Qualifier Application_ Part 2_ Bootcamp_ RICE-VIRT-FIN-PT-09-2021-U-B-TTH/Unsolved/app.py"
+   76  source /Users/santibanezfamily/opt/anaconda3/bin/activate
+   77  conda activate base
+   78  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/import fire.py"
+   79  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/import fire.py"
+   80  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/import fire.py"
+   81  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/import fire.py"
+   82  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/import fire.py"
+   83  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/import fire.py"
+   84  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/import fire.py"
+   85  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/import fire.py"
+   86  cd
+   87  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/import fire.py"
+   88  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/import fire.py"
+   89  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/import fire.py"
+   90  source /Users/santibanezfamily/opt/anaconda3/bin/activate
+   91  conda activate base
+   92  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/import fire.py"
+   93  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/import fire.py"
+   94  cd
+   95  cd desktop
+   96  cd training.py
+   97  cd Training
+   98  ls
+   99  python main.py
+  100  conda activate dev
+  101  cs
+  102  cd
+  103  desktop
+  104  cd desktop
+  105  cd Bootcamp\ -\ Course\ Content
+  106  cd 2.\ Module\ 2\ -\ Financial\ Applications\ with\ Python
+  107  cd Lesson\ 2\ -\ Creating\ Modular\ Applications
+  108  cd 2.2.6_\ Activity_\ Modularize\ Your\ Loan\ Qualifier\ Application_\ Part\ 2_\ Bootcamp_\ RICE-VIRT-FIN-PT-09-2021-U-B-TTH
+  109  ls
+  110  cd Unsolved
+  111  ls
+  112  code .
+  113  cd
+  114  pip install fire
+  115  pip
+  116  pip intall fire
+  117  anaconda deactivate
+  118  conda deactivate
+  119  pip install fire
+  120  python "import fire.py"
+  121  ls
+  122  cd desktop
+  123  python "import fire.py"
+  124  python "import fire.py"
+  125  python "import fire.py"
+  126  python "import fire.py"
+  127  python "import fire.py"
+  128  python "import fire.py"
+  129  python "import fire.py"
+  130  python "import fire.py"
+  131  python "import fire.py"
+  132  python "import fire.py"
+  133  python "import fire.py"
+  134  python "import fire.py"
+  135  python "import fire.py" --pants = True
+  136  python "import fire.py" --pants = True
+  137  python "import fire.py" --pants=True
+  138  python "import fire.py" --pants=False
+  139  cd
+  140  cd desl
+  141  cd desktop
+  142  cd Bootcamp\ -\ Course\ Content
+  143  cd 2.\ Module\ 2\ -\ Financial\ Applications\ with\ Python
+  144  cd Lesson\ 3\ -\ User\ Interaction
+  145  cd 2.3.4_\ Activity_\ Add\ Fire\ to\ the\ Loan\ Qualifier\ App_\ Bootcamp_\ RICE-VIRT-FIN-PT-09-2021-U-B-TTH
+  146  cd Unsolved
+  147  pwd
+  148  code ,
+  149  code .
+  150  ls
+  151  python app.py
+  152  python app.py --credit_score=750\n\n
+  153  python app.py --credit_score=750
+  154  python app.py --credit_score=750
+  155  python app.py --credit_score=750
+  156  python app.py --credit_score=750
+  157  python app.py --credit_score=750
+  158  python app.py --credit_score=750
+  159  python app.py 
+  160  python app.py --credit_score=750
+  161  python app.py
+  162  python app.py --credit_score=750 --income=1000000
+  163  python app.py --credit_score=750 --income=50000
+  164  python app.py --credit_score=750 --income=50000
+  165  python app.py --credit_score=750 --income=1000000
+  166  python app.py --credit_score=750 --income=1000000
+  167  python app.py --credit_score=750 --income=1000000
+  168  python app.py --credit_score=750 --income=1000000
+  169  python app.py --credit_score=750 --income=10
+  170  cd
+  171  pip install questionary
+  172  conda activate dev
+  173  pip install questionary
+  174  cd
+  175  cd desktop
+  176  dialog.py
+  177  pythin dialog.py
+  178  python dialog.py
+  179  python dialog.py
+  180  python dialog.py
+  181  python dialog.py
+  182  cd 2.3.4_\ Activity_\ Add\ Fire\ to\ the\ Loan\ Qualifier\ App_\ Bootcamp_\ RICE-VIRT-FIN-PT-09-2021-U-B-TTH
+  183  cd Bootcamp\ -\ Course\ Content
+  184  cd 2.\ Module\ 2\ -\ Financial\ Applications\ with\ Python
+  185  cd Lesson\ 3\ -\ User\ Interaction
+  186  cd 2.3.6_\ Activity_\ Add\ Questionary\ to\ the\ Loan\ Qualifier\ App_\ Bootcamp_\ RICE-VIRT-FIN-PT-09-2021-U-B-TTH
+  187  cd Unsolved
+  188  code .
+  189  python app.py --credit_score=750 --debt=5000 --income=20000\n
+  190  python app.py --credit_score=750 --debt=5000 --income=20000\n
+  191  python app.py
+  192  cd
+  193  git config --global user.name Eli Santibanez
+  194  git config --global user.email eliassantibanez@hotmail.com
+  195  git config --list
+  196  git config user.name "Eli Santibanez"
+  197  git config --global user.name "Eli Santibanez"
+  198  config -- list
+  199  git config --list
+  200  cd
+  201  git clone git@github.com:eliassantibanez/Test_Repo.git
+  202  pwd
+  203  ls
+  204  cd Test_Repo
+  205  ls
+  206  cd Readme.md
+  207  cd README.md
+  208  git status
+  209  git status
+  210  git add README.md
+  211  git status
+  212  touch New_file
+  213  mv New_file New_File.txt
+  214  git add New_File.txt
+  215  git status
+  216  git commit -m "these are the new changes"
+  217  git status
+  218  git push
+  219  git status
+  220  cd
+  221  conda deactivate
+  222  base? 
+  223  ?
+  224  conda create  -n "atm_dev" python=3.7 anaconda
+  225  conda deactivaet
+  226  yes
+  227  source /Users/santibanezfamily/opt/anaconda3/bin/activate
+  228  conda activate base
+  229  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/print("hello world").py"
+  230  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/print("hello world").py"
+  231  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Desktop/print("hello world").py"
+  232  source /Users/santibanezfamily/opt/anaconda3/bin/activate
+  233  conda activate base
+  234  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Downloads/Elis ATM App/util.py"
+  235  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Downloads/Elis ATM App/util.py"
+  236  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Downloads/Elis ATM App/util.py"
+  237  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Downloads/Elis ATM App/util.py"
+  238  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Downloads/Elis ATM App/util.py"
+  239  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Downloads/Elis ATM App/util.py"
+  240  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Downloads/Elis ATM App/util.py"
+  241  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Downloads/Elis ATM App/util.py"
+  242  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Downloads/Elis ATM App/util.py"
+  243  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Downloads/Elis ATM App/util.py"
+  244  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Downloads/Elis ATM App/util.py"
+  245  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Downloads/Elis ATM App/util.py"
+  246  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Downloads/Elis ATM App/util.py"
+  247  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Downloads/Elis ATM App/util.py"
+  248  source /Users/santibanezfamily/opt/anaconda3/bin/activate
+  249  conda activate base
+  250  /Users/santibanezfamily/opt/anaconda3/bin/python
+  251  ls
+  252  cd desktop
+  253  cd Bootcamp\ -\ Course\ Content
+  254  ls
+  255  cd 2.\ Module\ 2\ -\ Financial\ Applications\ with\ Python
+  256  ls
+  257  cd Lesson\ 0\ -\ Financial\ Applications\ with\ Python
+  258  ls
+  259  cs 2.4_\ Getting\ Ready\ for\ Virtual\ Class_\ Bootcamp_Class_2_Activities
+  260  cd 2.4_\ Getting\ Ready\ for\ Virtual\ Class_\ Bootcamp_Class_1_Activities
+  261  ls
+  262  cd ..
+  263  ls
+  264  cd 2.4_\ Getting\ Ready\ for\ Virtual\ Class_\ Bootcamp_Class_2_Activities
+  265  cd
+  266  cd 2.4_\ Getting\ Ready\ for\ Virtual\ Class_\ Bootcamp_Class_2_Activities
+  267  cd desktio
+  268  cd desktop
+  269  ls
+  270  cd bootcamp Bootcamp\ -\ Course\ Content
+  271  cd Bootcamp\ -\ Course\ Content
+  272  ls
+  273  cd 2.\ Module\ 2\ -\ Financial\ Applications\ with\ Python
+  274  cd
+  275  cd Bootacamp\ -\ Course\ Content
+  276  history
+  277  cd Desktop
+  278  cd Bootcamp\ -\ Course\ Content
+  279  cd 2.\ Module\ 2\ -\ Financial\ Applications\ with\ Python
+  280  cd Lesson\ 0\ -\ Financial\ Applications\ with\ Python
+  281  cd 2.4_\ Getting\ Ready\ for\ Virtual\ Class_\ Bootcamp_Class_2_Activities
+  282  cd 01_Ins_ATM_Application
+  283  code .
+  284  conda environments
+  285  conda info --envs
+  286  conda activate atm_dev
+  287  cd Desktop
+  288  cd Bootcamp\ -\ Course\ Content
+  289  cd 2.\ Module\ 2\ -\ Financial\ Applications\ with\ Python
+  290  cd Lesson\ 0\ -\ Financial\ Applications\ with\ Python
+  291  cd 2.4_\ Getting\ Ready\ for\ Virtual\ Class_\ Bootcamp_Class_2_Activities
+  292  cd 01_Ins_ATM_Application
+  293  ls
+  294  cd Unsolved
+  295  ls
+  296  cd ..
+  297  cd ..
+  298  ls
+  299  cd 01_Ins_ATM_Application
+  300  ls
+  301  cd Unsolved
+  302  ls
+  303  pip install -r requirements.txt
+  304  ls
+  305  cd atm/
+  306  pip install -r requirements.txt
+  307  cd
+  308  cd downloads
+  309  cd atm
+  310  ls
+  311  python atm.py
+  312  python atm.py
+  313  python atm.py
+  314  python atm.py
+  315  python atm.py
+  316  python atm.py
+  317  python atm.py
+  318  pwd
+  319  cd
+  320  cd deskop
+  321  cd Desktop
+  322  cd Bootcamp\ -\ Course\ Content
+  323  cd 2.\ Module\ 2\ -\ Financial\ Applications\ with\ Python
+  324  cd Lesson\ 4\ -\ Version\ Control\ and\ Documentation
+  325  cd 2.4.4_\ Documenting\ Complex\ Projects_\ Bootcamp_\ RICE-VIRT-FIN-PT-09-2021-U-B-TTH.pdf
+  326  ls
+  327  cd ..
+  328  ls
+  329  cd ..
+  330  ls
+  331  cd 2.\ Module\ 2\ -\ Financial\ Applications\ with\ Python
+  332  cd Lesson\ 0\ -\ Financial\ Applications\ with\ Python
+  333  ls
+  334  cd 2.4_\ Getting\ Ready\ for\ Virtual\ Class_\ Bootcamp_Class_2_Activities
+  335  cd 02_Stu_Build_ATM_Functions
+  336   code .
+  337  cd
+  338  cd downloads
+  339  cd atm
+  340  code .
+  341  ls
+  342  python atm.py
+  343  python atm.py
+  344  python atm.py
+  345  cd
+  346  cd desktop
+  347  cd Bootcamp\ -\ Course\ Content
+  348  cd 2.\ Module\ 2\ -\ Financial\ Applications\ with\ Python
+  349  cd Lesson\ 2\ -\ Creating\ Modular\ Applications
+  350  cd
+  351  cd downloads
+  352  cd elias_files
+  353  ls
+  354  cd
+  355  cd desktop
+  356  cd
+  357  cd downloads
+  358  ls
+  359  ls
+  360  cd Elis\ app
+  361  ls
+  362  cd data
+  363  ls
+  364  pwd
+  365  pwd
+  366  cd ..
+  367  ls
+  368  code .
+  369  ls
+  370  cd atm_app.py
+  371  pwd
+  372  ls
+  373  cd util.py
+  374  python util.py
+  375  python util.py
+  376  python util.py
+  377  python util.py
+  378  python util.py
+  379  python util.py
+  380  python util.py
+  381  python util.py
+  382  python util.py
+  383  python util.py
+  384  python util.py
+  385  python util.py
+  386  python util.py
+  387  python util.py
+  388  python util.py
+  389  python util.py
+  390  python util.py
+  391  python util.py
+  392  python util.py
+  393  python util.py
+  394  python util.py
+  395  python util.py
+  396  python util.py
+  397  python util.py
+  398  python util.py
+  399  python util.py
+  400  python util.py
+  401  python util.py
+  402  python util.py
+  403  python util.py
+  404  python util.py
+  405  python util.py
+  406  python util.py
+  407  python util.py
+  408  python withdraw_deposit.py
+  409  python withdraw_deposit.py
+  410  python withdraw_deposit.py
+  411  python withdraw_deposit.py
+  412  python util.py
+  413  python withdraw_deposit.py
+  414  pwd
+  415  ls
+  416  python withdraw_deposit.py
+  417  python withdraw_deposit.py
+  418  python withdraw_deposit.py
+  419  python withdraw_deposit.py
+  420  python withdraw_deposit.py
+  421  python withdraw_deposit.py
+  422  python withdraw_deposit.py
+  423  python withdraw_deposit.py
+  424  python withdraw_deposit.py
+  425  python withdraw_deposit.py
+  426  python withdraw_deposit.py
+  427  pip install questionary
+  428  pip install versio
+  429  pip version
+  430  versio
+  431  version
+  432  pip install --version
+  433  pip --version
+  434  pip questionary --version
+  435  questionary --version
+  436  python --version
+  437  questionary --version
+  438  questionary --version
+  439  python withdraw_deposit.py
+  440  python withdraw_deposit.py
+  441  python withdraw_deposit.py
+  442  python util.py
+  443  python util.py
+  444  python util.py
+  445  python util.py
+  446  python util.py
+  447  python util.py
+  448  python util.py
+  449  python util.py
+  450  python util.py
+  451  python util.py
+  452  python util.py
+  453  python util.py
+  454  python util.py
+  455  ls
+  456  cd
+  457  nano ~/.inputrc
+  458  ls
+  459  login
+  460  ls
+  461  cd desktop
+  462  ls
+  463  ls
+  464  cd
+  465  ls -1
+  466  cd modusudo nano ~/.inputrc
+  467  cd
+  468  sudo nano ~/.inputrc
+  469  ls
+  470  sudo nano ~/.inputrc
+  471  cd desktop
+  472  sudo nano ~/.inputrc
+  473  ls
+  474  ls -1
+  475  ls -2
+  476  ls -3
+  477  ls -4
+  478  ls -5
+  479  ls -6
+  480  ls -9
+  481  ls -0
+  482  history
+  483  elias
+  484  nano ~/.inputrc
+  485  ls
+  486  ls
+  487  cd desktop
+  488  ls
+  489  conda create
+  490  conda
+  491  conda create dev_mod_2
+  492  conda create env
+  493  conda create --name dev_mod_2
+  494  conda activate dev_mod_2
+  495  conda env
+  496  list
+  497  conda env --list
+  498  conda-env -h list
+  499  cond env -list
+  500  conda env -list
+  501  conda info --env
+  502  git help
+  503  git init "Module_2_challenge"
+  504  git status
+  505  ls
+  506  cd Module_2_challenge
+  507  ls
+  508  git add challange.py
+  509  git list
+  510  git rev-list
+  511  git init
+  512  git status
+  513  git add README.md
+  514  giti add Readme.txt
+  515  git add readme.txt
+  516  touch readme.md
+  517  ls
+  518  git status
+  519  git commit -m
+  520  git commit -m "first commit"
+  521  git status
+  522  git push -u Module 2 Challange
+  523  pwd
+  524  ls
+  525  git clone git@github.com:eliassantibanez/Module_2_Challenge.git
+  526  ls
+  527  cd Module_2_Challenge
+  528  ls
+  529  code . 
+  530  git add help
+  531  git add --help
+  532  git status
+  533  pwd
+  534  touch application.py
+  535  ls
+  536  ls
+  537  git status
+  538  git add 
+  539  git add -A
+  540  git status
+  541  mkdir
+  542  mkdir data
+  543  ls
+  544  cd data
+  545  touch number.csv
+  546  cd ..
+  547  ls
+  548  tree
+  549  ls tree
+  550  tree
+  551  ls
+  552  cd ..
+  553  tre
+  554  tree
+  555  ls
+  556  cd Module_2_Challenge
+  557  tree - help
+  558  ls
+  559  cd ..
+  560  git add -A
+  561  ls
+  562  cd Module_2_Challenge/
+  563  ls
+  564  git add -A
+  565  git status
+  566  git push origin main
+  567  git status
+  568  git status
+  569  git push origin main
+  570  git status
+  571  git status
+  572  git push origin second_branch
+  573  git config -l
+  574  git pull origin main
+  575  git status
+  576  git add -A
+  577  git status
+  578  git push origin main
+  579  git commit -m "we need to upload this"
+  580  git push origin main
+  581  cd
+  582  conda deactivate
+  583  conda create 
+  584  conda create eli
+  585  conda --create
+  586  conda helpt
+  587  conda help
+  588  conda create -env
+  589  conda create env
+  590  conda create --envs
+  591  conda create -env
+  592  conda create envs eli
+  593  conda create --help
+  594  conda create --name test_environemnt
+  595  conda activate test_environemnt
+  596  git init-b main
+  597  git init -b main
+  598  git init
+  599  pwd
+  600  cd.git/
+  601  find / -name .git -type d -exec dirname {} \;\n
+  602  locate -br '\.git$' | rev | cut -c 6- | rev\n
+  603  locate -br '\.git$' | rev | cut -c 6- | rev\nconda deactivate
+  604  conda activate dev
+  605  locate -br '\.git$' | rev | cut -c 6- | rev\n
+  606  conda deactivate
+  607  conda envs --list
+  608  conda env --list
+  609  conda env list
+  610  history
+  611  history 1106
+  612  conda env list
+  613  conda activtat dev
+  614  conda activate dev
+  615  list
+  616  pip list
+  617  pip install python=2.9
+  618  pip install python==2.8
+  619  pip install python==3.9
+  620  python version
+  621  python --versin
+  622  python -v
+  623  python -h
+  624  conda list -n
+  625  conda list
+  626  conda update python
+  627  python versino
+  628  python
+  629  conda install -c anaconda python=3.9 
+  630  ls
+  631  $ sudo apt-get install bash-completion\n
+  632  bash
+  633  ls
+  634  ~/.inputrc
+  635  ~/.inputrc
+  636  ~/.inputrc
+  637  exec/bin/bash
+  638  ~/.inputrc
+  639  nano ~/.inputrc
+  640  ls
+  641  cd deskop
+  642  ls
+  643  ls
+  644  cd deskop
+  645  cd Desktop
+  646  cd
+  647  cd Desk
+  648  cd Desktop
+  649  ls -1
+  650  BootCacheControl
+  651  cd ..
+  652  ls
+  653  cd Desktop
+  654  ls -1
+  655  cd Bootcamp\ -\ Course\ Content
+  656  ls -1
+  657  cd 2.\ Module\ 2\ -\ Financial\ Applications\ with\ Python
+  658  ls -1
+  659  cd Module\ 2\ Challenge
+  660  ls -1
+  661  cd Module\ 2\ Challenge\ Starter_Code
+  662  ls
+  663  cd loan_qualifier_app
+  664  ls -1
+  665  code .
+  666  ls
+  667  touch git_repo_challenge
+  668  ls
+  669  move --help
+  670  mv --help
+  671  ls
+  672  cd ..
+  673  ls
+  674  cd loan_qualifier_app
+  675  git clone git@github.com:eliassantibanez/Module_2_Challenge_2.git
+  676  git status
+  677  historty
+  678  history
+  679  git status
+  680  pwd
+  681  git reset --hard
+  682  git status
+  683  git reset --hard
+  684  git status
+  685  git add -A
+  686  git status
+  687  git reset --hard HEAD~1\n
+  688  git status
+  689  git log
+  690  cd ..
+  691  ls
+  692  git add loan_qualifier_app
+  693  git help submodul
+  694  git hub submodule
+  695  git help submodule
+  696  find / -name ".git"
+  697  ls
+  698  git status
+  699  git status
+  700  ls
+  701  cd loan_qualifier_app
+  702  git status
+  703  cd
+  704  git status
+  705  cd Desktop
+  706  git status
+  707  source /Users/santibanezfamily/opt/anaconda3/bin/activate
+  708  conda activate base
+  709  /Users/santibanezfamily/opt/anaconda3/bin/python "/Users/santibanezfamily/Downloads/Elis app/util.py"
+  710  ls
+  711  cd Downloads
+  712  ls
+  713  cd Elis\ app
+  714  ls
+  715  code . 
+  716  python util.py
+  717  python util.py
+  718  CD
+  719  cd
+  720  cd Desktop
+  721  cd Boo
+  722  cd Bootcamp\ -\ Course\ Content
+  723  ls
+  724  cd 2.\ Module\ 2\ -\ Financial\ Applications\ with\ Python
+  725  ls
+  726  cd Lesson\ 0\ -\ Financial\ Applications\ with\ Python
+  727  ls
+  728  cd . 2.4_\ Getting\ Ready\ for\ Virtual\ Class_\ Bootcamp_Class_2_Activities
+  729  ls
+  730  cd 2.4_\ Getting\ Ready\ for\ Virtual\ Class_\ Bootcamp_Class_2_Activities
+  731  ls
+  732  cd 01_Ins_ATM_Application
+  733  ls
+  734  code . 
+  735  ls
+  736  cd
+  737  ls
+  738  cd Desktop
+  739  cd
+  740  cd Downloads
+  741  cd Elias
+  742  cd Elis\ app
+  743  ls
+  744  python atm_app.py
+  745  python atm_app.py
+  746  python atm_app.py
+  747  ls
+  748  python util.py
+  749  python util.py
+  750  python util.py
+  751  python util.py
+  752  python util.py
+  753  python util.py
+  754  python util.py
+  755  python util.py
+  756  python util.py
+  757  python util.py
+  758  python util.py
+  759  python util.py
+  760  python util.py
+  761  python util.py
+  762  python util.py
+  763  python util.py
+  764  python util.py
+  765  python util.py
+  766  python util.py
+  767  python util.py
+  768  python util.py
+  769  python util.py
+  770  python util.py
+  771  10
+  772  10
+  773  10
+  774  python util.py
+  775  10
+  776  10
+  777  python util.py
+  778  python util.py
+  779  python util.py
+  780  python util.py
+  781  python util.py
+  782  python util.py
+  783  python util.py
+  784  python util.py
+  785  python util.py
+  786  python util.py
+  787  python util.py
+  788  python util.py
+  789  python util.py
+  790  python util.py
+  791  python util.py
+  792  python util.py
+  793  python util.py
+  794  python util.py
+  795  python util.py
+  796  python util.py
+  797  python util.py
+  798  python util.py
+  799  python util.py
+  800  python util.py
+  801  python util.py
+  802  python util.py
+  803  python util.py
+  804  python util.py
+  805  python util.py
+  806  python util.py
+  807  python util.py
+  808  python util.py
+  809  python util.py
+  810  10
+  811  python util.py
+  812  python util.py
+  813  python util.py
+  814  python util.py
+  815  python util.py
+  816  python util.py
+  817  python util.py
+  818  python util.py
+  819  python util.py
+  820  python util.py
+  821  python util.py
+  822  python util.py
+  823  python util.py
+  824  python util.py
+  825  python util.py
+  826  python util.py
+  827  python util.py
+  828  python util.py
+  829  python util.py
+  830  python util.py
+  831  python util.py
+  832  python util.py
+  833  python util.py
+  834  python util.py
+  835  python util.py
+  836  python util.py
+  837  python util.py
+  838  python util.py
+  839  python util.py
+  840  python util.py
+  841  python util.py
+  842  python util.py
+  843  cd
+  844  cd
+  845  ls -1
+  846  cd Desktop
+  847  cd Bootcamp\ -\ Course\ Content
+  848  ls 
+  849  ls -1
+  850  cd 2.\ Module\ 2\ -\ Financial\ Applications\ with\ Python
+  851  ls -1
+  852  cd Module\ 2\ Challenge
+  853  ls
+  854  ls -1
+  855  cd Module\ 2\ Challenge\ Starter_Code
+  856  ls
+  857  cd git git_repo_module_2_challenge_2
+  858  ls -1
+  859  cd git_repo_module_2_challenge_2
+  860  ls -1
+  861  code .
+  862  dc
+  863  cd
+  864  cd Downloads
+  865  ls -1
+  866  cd Elis\ app
+  867  ls
+  868  pythong util.py
+  869  python util.py
+  870  code .
+  871  code .
+  872  python util.py
+  873  python util.py
+  874  python util.py
+  875  python util.py
+  876  conda activate dev
+  877  ls
+  878  cd Desktop
+  879  cd Bootcamp_Playground
+  880  ls
+  881  jupyter lab .
+  882  conda env -list
+  883  conda env list
+  884  conda activate dev
+  885  jupyter lab
+  886  cd
+  887  ls
+  888  cd Desktop
+  889  mkdir Bootcamp_Playground
+  890  ls
+  891  cd Bootcamp
+  892  cd Bootcamp_Playground
+  893  jupyter lab /
+  894  ls
+  895  conda activate dev
+  896  ls -1
+  897  cd Deskt
+  898  cd Desktop
+  899  ls -1
+  900  cd Bootcamp\ -\ Course\ Content
+  901  ls -1
+  902  cd class_git
+  903  git clone f64825051aa8cc38b64674055dd4477366806974
+  904  git clone git@rice.bootcampcontent.com:Rice-Coding-Bootcamp/rice-virt-fin-pt-09-2021-u-b.git
+  905  git status
+  906  git status
+  907  git pull origin main
+  908  ls
+  909  ls
+  910  cd rice-virt-fin-pt-09-2021-u-b
+  911  ls -1
+  912  cd class
+  913  ls
+  914  cd 03-Financial-Analysis-Pandas
+  915  jupyter lab .
+  916  history
+  917  conda pandas list
+  918  pandas list
+  919  pip pandas list
+  920  pandas version
+  921  pip pandas version
+  922  conda pandas version
+  923  conda pandas --version
+  924  pandas --version
+  925  pip show pabdas
+  926  pip show pandas
+  927  pip show numpy
+  928  history
+  929  conda activate dev
+  930  conda env list
+  931  conda deactivate
+  932  conda activate dev_mod_2
+  933  ls
+  934  cd Desktop
+  935  cd Bootcamp\ -\ Course\ Content
+  936  ls
+  937  cd 2. 
+  938  cd 2.\ Module\ 2\ -\ Financial\ Applications\ with\ Python
+  939  ls
+  940  cd Module 2
+  941  cd Module\ 2\ Challenge
+  942  ls
+  943  cd Module\ 2\ Challenge
+  944  cd Module\ 2\ Challenge
+  945  cd Module\ 2\ Challenge\ Starter_Code
+  946  ls
+  947  cd git
+  948  cd git_repo_module_2_challenge_2
+  949  ls
+  950  cd ..
+  951  ls
+  952  ls -1
+  953  ls -1
+  954  cd git_repo_module_2_challenge_2
+  955  code .
+  956  git status
+  957  cd ..
+  958  git status
+  959  cd git_repo_module_2_challenge_2
+  960  git status
+  961  git clone git@github.com:eliassantibanez/Module_2_Challenge_2.git
+  962  ls
+  963  mv loan_qualifier_app
+  964  mv loan_qualifier_app/Module_2_Challenge_2
+  965  ls
+  966  cd Mod
+  967  cd Module_2_Challenge_2
+  968  ls
+  969  cd ..
+  970  ls -1
+  971  mv loan_qualifier_app /Module_2_Challenge_2
+  972  ls
+  973  ls
+  974  mv loan_qualifier_app/ /Module_2_Challenge_2
+  975  ls
+  976  cd Module_2_Challenge_2
+  977  ls
+  978  code .
+  979  pwd
+  980  git status
+  981  git commit -m loan_qualifier_app
+  982  git add -m loan_qualifier_app
+  983  git add loan_qualifier_app
+  984  git status
+  985  git commit origin main
+  986  git commit
+  987  git status
+  988  git push origin main
+  989  git push origin main
+  990  git commit -m "commiting to test out everything is working properly"
+  991  git push origin main
+  992  ls
+  993  code .
+  994  ls
+  995  cd Desk
+  996  cd Desktop
+  997  ls -1
+  998  python Untitled-1.py
+  999  python Untitled-1.py
+ 1000  python Untitled-1.py
+ 1001  ls
+ 1002  conda activate dev
+ 1003  ls
+ 1004  cd Desktop
+ 1005  cd Bootcamp\ -\ Course\ Content
+ 1006  cs
+ 1007  ls
+ 1008  cd 2.\ Module\ 2\ -\ Financial\ Applications\ with\ Python
+ 1009  ls
+ 1010  cd Module\ 2\ Challenge
+ 1011  ls
+ 1012  ls
+ 1013  cd Module\ 2\ Challenge
+ 1014  cd Module\ 2\ Challenge
+ 1015  ls -1
+ 1016  cd Module\ 2\ Challenge.pdf
+ 1017  cd Module\ 2\ Challenge\ Starter_Code
+ 1018  ls
+ 1019  cd git_repo_module_2_challenge_2
+ 1020  ls
+ 1021  cd Module_2_Challenge_2
+ 1022  ls
+ 1023  code .
+ 1024  git status
+ 1025  ;s -1
+ 1026  ls -1
+ 1027  cd loan_qualifier_app
+ 1028  ls
+ 1029  python app.py
+ 1030  python app.py
+ 1031  python app.py
+ 1032  python app.py
+ 1033  python app.py
+ 1034  python app.py
+ 1035  python app.py
+ 1036  python app.py
+ 1037  python app.py
+ 1038  python app.py
+ 1039  history 50 > terminal_history.txt\n

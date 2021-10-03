@@ -10,6 +10,10 @@ import sys
 import fire
 import questionary
 from pathlib import Path
+import csv
+
+from questionary import question
+from questionary.prompts.common import Choice
 
 from qualifier.utils.fileio import load_csv
 
@@ -110,14 +114,21 @@ def save_qualifying_loans(qualifying_loans):
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # YOUR CODE HERE!
-
+    question = questionary.select("Do you want to save this file?", choices =["Yes","No"]).ask()
+    if question == "Yes":
+        path = questionary.path("Path to the projects version file").ask()
+        csv_path = Path(path)
+        with open(csv_path, 'w') as csv_file:
+            csv_writer = csv.writer(csv_file)
+            for row in qualifying_loans:
+                csv_writer.writerow(row)
 
 def run():
     """The main function for running the script."""
 
     # Load the latest Bank data
     bank_data = load_bank_data()
-
+    
     # Get the applicant's information
     credit_score, debt, income, loan_amount, home_value = get_applicant_info()
 

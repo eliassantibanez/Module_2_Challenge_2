@@ -1,33 +1,36 @@
-# Project Title
-
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
-
+# ATM Application 
+#### This app provides the user the ability to withdraw, deposit, or check their balance. The main insparation for this project came from starting the course in Fintech Bootcamp and learn how to make applications such as these.
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+This application uses the following libraries:
+* sys
+* fire
+* questionary
+* Path from pathlib
+* csv
 
 ---
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+To run this program, use the file "./data/daily_rate_sheet.csv"
 
 ---
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+use the file data/daily_rate_sheet.csv to launch your app, then the app will prompt the user to input their information to see if they qualify for a loan. 
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+Eli Santibanez was the only contributor to this project. 
 
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+No licenses were used to build this project other than a Trilogy Code License possibly. 
